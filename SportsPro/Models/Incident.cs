@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace SportsPro.Models
-{
+{ 
     public class Incident
     {
 		public int IncidentID { get; set; }
